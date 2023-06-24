@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0; 
+    background: rgb(1, 17, 94) fixed url("background.png") no-repeat;
+    background-size: cover;
+} 
+/* .container{
+    display: flex;
+    flex-direction: column;
+} */
+.leftpanel{
+    width: 15px;
+    height: 100px; 
+    background-color: rgb(14, 130, 109);
+}
+/* .mainPanel{
+    width: 85vw;
+    height: 100vh;
+    margin-left: 15vw;
+    background-color: rgb(15 58 132);
+     
+} */
